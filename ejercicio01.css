@@ -1,0 +1,37 @@
+.parrafo{
+    color: blue;
+    font-size: 25px;
+    font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+}
+
+.parrafo1{
+    color: brown;
+}
+
+.parrafo2{
+    color: blueviolet;
+}
+
+.parrafo3{
+    color: aqua;
+}
+
+.parrafo4{
+    color: rgb(147, 180, 27);
+}
+
+.parrafo5{
+    color: rgb(25, 161, 32);
+}
+
+.parrafo6{
+    color: gold;
+}
